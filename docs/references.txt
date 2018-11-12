@@ -1,0 +1,6 @@
+References NES Emu
+http://bisqwit.iki.fi/jutut/kuvat/programming_examples/nesemu1/nesemu1.cc
+
+How to Code an NTSC Video
+
+http://wiki.nesdev.com/w/index.php/NTSC_video
